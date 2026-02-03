@@ -1,26 +1,24 @@
-Open Systems Research Institute (OSRI)
-OSRI is an independent, academic-leaning research initiative advancing open inquiry into computing systems—especially operating system design, secure computing, and experimental software infrastructure.
+# Open Systems Research Institute (OSRI)
 
--Focus Areas
-Operating system design & kernels
+OSRI is an independent, academic-leaning research initiative focused on open
+systems, operating system design, secure computing, and experimental software
+infrastructure.
 
-Secure computing and capability-based systems
+## Research Areas
+- Operating system design & kernels
+- Secure and capability-based systems
+- Systems architecture and abstractions
+- Open infrastructure and tooling
+- Experimental and educational systems research
 
-Systems architecture and abstractions
+## Publications & Notes
+- Research notes are published in the `/notes` directory
+- Reading lists and study plans are maintained in `/reading`
 
-Open infrastructure and tooling
+## Status
+OSRI is in its early formation stage (founded 2026). Current efforts focus on
+public research notes, literature orientation, and community groundwork.
 
-Experimental and educational systems research
+## Contact
+For academic discussion or collaboration, open an issue in this repository.
 
--What We Publish
-
-Research notes (public)
-
-Literature summaries (papers/books)
-
-Technical essays and critiques
-
-Experimental prototypes (when relevant)
-
--Status
-OSRI is in its early stage (founded 2026). Initial work focuses on publishing research notes and building a reading program.
